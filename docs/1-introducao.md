@@ -1,6 +1,4 @@
 # Introdução
-- Qual a ideia principal do seu jogo? 
-- Que tipo de experiência você quer dar para o seu jogador?
 
 ### Gênero
 O jogo desenvolvido pertence ao gênero **Roguelike** um subgênero dos jogos de aventura e ação caracterizado por mapas gerados proceduralmente (ou semi-aleatoriamente), progressão baseada em melhoria de personagem e morte permanente. Neste jogo de plataforma 2D com progressão vertical, o jogador controlará um guerreiro que deve escalar a lendária Torre de Babel, enfrentando desafios, derrotando inimigos e coletando fragmentos de idiomas para restaurar a comunicação da humanidade.
