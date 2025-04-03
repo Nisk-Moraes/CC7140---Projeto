@@ -23,3 +23,17 @@ O jogo rodará em um ciclo contínuo, onde a lógica será constantemente verifi
 - Verificação de eventos especiais, como salas de buffs ou chefes.
 - Gerenciamento da sucessão de guerreiros em caso de morte.
 
+#### Atores e Componentes
+- Implementação de mecânicas de movimentação do guerreiro, incluindo pulo, ataque e esquiva.
+- IA dos inimigos, determinando padrões de patrulha, perseguição e ataque.
+- Comportamento dos deuses guardiões, cada um com habilidades únicas e desafios diferenciados.
+- Elementos interativos, como plataformas móveis, alavancas e armadilhas.
+
+#### Mecânica de Jogo
+- Sistema de combate fluido, com variedade de armas e estilos de luta.
+- Progressão de personagem, permitindo melhorias nos atributos e desbloqueio de novas habilidades.
+- Seleção de buffs e armas aleatórias ao longo da jornada.
+- Sistema de morte e sucessão, onde um novo guerreiro assume o lugar do anterior e pode herdar habilidades desbloqueadas.
+- Gestão da ``Vontade Ancestral'' para compra de melhorias permanentes entre as tentativas.
+
+Com essa abordagem, o jogo busca oferecer uma experiência desafiante e envolvente, incentivando o jogador a aprimorar suas estratégias e explorar novas combinações de classes, habilidades e equipamentos para finalmente chegar ao topo da Torre de Babel.
